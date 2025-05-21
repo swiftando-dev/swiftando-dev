@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**swiftando-dev/swiftando-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🍎 swiftando-dev</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">🧠 Criando apps com Swift e um toque de 🍀 diversão.</p>
+
+---
+
+## 👋 Sobre nós
+
+Sou um desenvolvedor iniciando no mundo iOS, Swift, design limpo e boas práticas! 🍏
+
+- 🚀 Apps com SwiftUI, UIKit e animações fluidas
+- 🧪 Testes, arquitetura limpa e modularização
+- 🛠️ Tutoriais, projetos abertos e desafios
+
+---
+
+## 🔧 Stack Principal
+
+- 🧑‍💻 **Linguagem:** Swift, SwiftUI, UIKit
+- 🛠️ **Ferramentas:** Xcode, SPM, CocoaPods, Fastlane
+- 🧪 **Testes:** XCTest, Quick/Nimble, SnapshotTesting
+- ☁️ **Back-end:** Firebase, REST APIs, GraphQL
+
+---
+
+## 🧪 Projetos em destaque
+
+| App | Descrição | Tech |
+|-----|-----------|------|
+| [📱 iQuizSwift](https://github.com/swiftando-dev/iQuizSwift) | App de quiz com transições animadas e dados locais. | SwiftUI, MVVM |
+
+---
+
+## 🌱 Explorando
+
+Atualmente estou mergulhando em:
+
+- TCA (The Composable Architecture)
+- Async/Await + Swift Concurrency
+- Modularização de projetos iOS
+
+---
+
+## 💬 Dá uma força?
+
+- 🐦 YouTube: [Swiftando](https://www.youtube.com/@swiftando)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftando-dev&layout=compact&langs_count=8&theme=swift" />
+</p>
+
+<p align="center">
+  <i>Feito com ❤️ em Swift, direto do Xcode</i>
+</p>
