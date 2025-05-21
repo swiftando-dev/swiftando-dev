@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">🍎 swiftando-dev</h1>
 
 <p align="center">
@@ -12,7 +10,7 @@
 
 ---
 
-## 👋 Sobre nós
+## 👋 Sobre mim
 
 Sou um desenvolvedor iniciando no mundo iOS, Swift, design limpo e boas práticas! 🍏
 
