@@ -33,7 +33,8 @@ Sou um desenvolvedor iniciando no mundo iOS, Swift, design limpo e boas prática
 
 | App | Descrição | Tech |
 |-----|-----------|------|
-| [📱 iQuizSwift](https://github.com/swiftando-dev/iQuizSwift) | App de quiz com transições animadas e dados locais. | SwiftUI, MVVM |
+| [📱 iQuizSwift](https://github.com/swiftando-dev/iQuizSwift) | App de quiz com transições animadas e dados locais. | UIKit, Storyboard |
+| [📱 Cinetopia](https://github.com/swiftando-dev/cinetopia) | App para gestão de filmes. | UIKit, viewCode |
 
 ---
 
